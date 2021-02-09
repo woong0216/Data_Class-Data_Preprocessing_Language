@@ -8,3 +8,4 @@
 ### week 9: Data Homework (Pytorch, iris)
 ### week 11: Data Homework (Regular Expression)
 ### week 12: Data Homework (Crawling)
+#### Jupyter Python Programming
