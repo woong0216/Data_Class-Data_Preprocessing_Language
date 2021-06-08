@@ -1,4 +1,5 @@
 # Data_Class-Data_Preprocessing_Language
+> Class Schedule
 - week 2: Data Foundation
 - week 4: Data Homework (math)
 - week 5: Data Homework (Counting)
@@ -8,4 +9,6 @@
 - week 9: Data Homework (Pytorch, iris)
 - week 11: Data Homework (Regular Expression)
 - week 12: Data Homework (Crawling)
-> Jupyter Python Programming
+> Analysis
+- Jupyter Python Programming
+- Multiple basic functions about python
