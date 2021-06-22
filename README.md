@@ -1,4 +1,4 @@
-# Data_Class-Data_Preprocessing_Language
+# Data_Preprocessing_Language
 ## Class Schedule
 - week 2
 > Data Foundation <br/>
